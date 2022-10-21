@@ -31,7 +31,7 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![]
 
 > Sentence about visualization.
 
