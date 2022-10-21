@@ -28,7 +28,7 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 - Based on the above, the recomended model was the Regression Tree.
 
 ## Sku Counts Visualization
-![](https://github.com/susansunshin/FoodPredictionProject/blob/main/sku%20count%202.png)
+![](https://github.com/susansunshin/FoodPredictionProject/blob/main/photos/sku%20count%202.png)
 > This graph shows the breadth and depth of the assortment at this particular chain of outlets.
 > It is useful in understanding the assortment because typically the higher the sku count, the higher the sales.
 > Below we will compare this graph to the sales by category so that we can understand a sku's productivity.
