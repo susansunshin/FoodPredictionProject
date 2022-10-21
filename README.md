@@ -27,16 +27,18 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
   - Once tuned, R^2 scores were 60% with an improved RMSE score
 - Based on the above, the recomended model was the Regression Tree.
 
-### Here are examples of how to embed images from your sub-folder
+#### Sku Counts
+![](https://github.com/susansunshin/FoodPredictionProject/blob/main/Sku%20Count.png)
+> This graph shows the breadth and depth of the assortment at this particular chain of outlets
+> 
 
-
-#### Visual 1 Title
+#### Sales by Fat Content
 ![](https://github.com/susansunshin/FoodPredictionProject/blob/main/Fat%20Content.png)
 
-> Sentence about visualization.
+> This visualization allows us to see how disparate the sales are between Low Fat and Regular items.
+> The sales for these two types of products are relatively evenly split,
 
-#### Visual 2 Title
-![](
+
 ## Limitations & Next Steps
 - There are limitations to this data as we do not know the specifics behind the attributes; particularly for the outlet types
 - The next steps would be to understand location attributes so that we are better able to understand how to fill in missing values
