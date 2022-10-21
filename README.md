@@ -31,7 +31,7 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 
 
 #### Visual 1 Title
-![]
+![](https://github.com/susansunshin/FoodPredictionProject/blob/main/Bar%20Graph.png)
 
 > Sentence about visualization.
 
