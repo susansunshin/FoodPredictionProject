@@ -31,12 +31,12 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 
 
 #### Visual 1 Title
-![](https://github.com/susansunshin/FoodPredictionProject/blob/main/Bar%20Graph.png)
+![](https://github.com/susansunshin/FoodPredictionProject/blob/main/Fat%20Content.png)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
-
+![](
 ## Limitations & Next Steps
 - There are limitations to this data as we do not know the specifics behind the attributes; particularly for the outlet types
 - The next steps would be to understand location attributes so that we are better able to understand how to fill in missing values
