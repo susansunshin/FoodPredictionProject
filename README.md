@@ -34,7 +34,7 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 > Below we will compare this graph to the sales by category so that we can understand a sku's productivity.
 
 ## Sales by Category Visualization
-![](https://github.com/susansunshin/FoodPredictionProject/blob/main/sum%20of%20sales.png)
+![](https://github.com/susansunshin/FoodPredictionProject/blob/main/photos/sum%20of%20sales.png)
 
 > This graph shows the sum of sales by product type.
 > The bars are ordered in the same order as the sku count graph above.
