@@ -24,7 +24,9 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 ## Results
 - The Linear Regression Model resulted in a low R^2 score (around 50%) with a train RMSE score of $1,094.  
 - The Regression Tree model was initially underfit and required tuning.
-  - Once tuned, R^2 scores were 60%
+  - Once tuned, R^2 scores were 60% with an improved RMSE score
+- Based on the above, the recomended model was the Regression Tree.
+
 ### Here are examples of how to embed images from your sub-folder
 
 
@@ -35,19 +37,6 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 
 #### Visual 2 Title
 
-## Model
-
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
-
-## Recommendations:
-
-More of your own text here
-
-
 ## Limitations & Next Steps
 
 More of your own text here
@@ -56,4 +45,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **susansunshin@gmail.com**
