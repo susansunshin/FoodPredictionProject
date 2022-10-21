@@ -38,11 +38,9 @@ Attributes include Item Weight, Item Fat Content, Item Visibility, Item Type, Ou
 #### Visual 2 Title
 
 ## Limitations & Next Steps
-
-More of your own text here
-
+- There are limitations to this data as we do not know the specifics behind the attributes; particularly for the outlet types
+- The next steps would be to understand location attributes so that we are better able to understand how to fill in missing values
 
 ### For further information
-
 
 For any additional questions, please contact **susansunshin@gmail.com**
